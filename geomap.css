@@ -1,0 +1,28 @@
+.key{
+    z-index: 10;
+}
+
+.path{
+    z-index: -10;
+}
+
+.buttondiv{
+    text-align: center;
+}
+
+.tooltip{
+    position: absolute;
+    background-color: lightblue;
+    border-radius: 5px;
+    border-color: black;
+    padding: 5px;
+}
+
+.tooltiptext{
+    padding: 0;
+    margin: 0;
+}
+
+.description{
+    margin: 0;
+}
